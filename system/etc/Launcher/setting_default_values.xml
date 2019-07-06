@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting-default >
+
+    <!-- 打开桌面页面循环 默认开启 true， 关闭 false -->
+    <bool name="desktop_loop_open">true</bool>
+
+    <!-- 允许通知角标 默认开启 true， 关闭 false -->
+    <bool name="allow_icon_badging">true</bool>
+
+    <!-- 打开双行显示 默认开启 true， 关闭 false -->
+
+    <bool name="double_line_open">true</bool>
+
+    <!-- 打开双击灭屏 默认开启 true， 关闭 false -->
+    <!-- Chenyee <BLU_Req> <huanghaijian> <20180906> modify for CSW1802BA-127  begin -->
+    <bool name="locked_screen_open">true</bool>
+    <!-- Chenyee <BLU_Req> <huanghaijian> <20180906> modify for CSW1802BA-127  end -->
+    
+    <!-- 打开负一屏功能 默认开启 true， 关闭 false -->
+    <!-- Chenyee <BLU_Req> <zhanglz> <20180316> modify for CSW1703BA-1  begin -->
+    <bool name="overlay_open">true</bool>
+    <!-- Chenyee <BLU_Req> <zhanglz> <20180316> modify for CSW1703BA-1  end -->
+
+    <!-- 页面切换特效 可选值：
+            Classic:    经典
+            Cube:       立方体
+            EDof:       景深
+            FadeIn:     层叠
+            Fan:        风扇
+            Flip:       翻转
+            Jump:       弹跳
+            Lean:       倾斜
+            Melt:       溶解
+            Wave:       波浪
+     -->
+    <string name="effect_type">Classic</string>
+
+    <!-- 桌面模式 可选值：
+            single_classic_mode:    经典单层模式
+            double_classic_mode:    经典双层模式
+     -->
+    <!-- Chenyee <BLU_Req> <zhanglz> <20180316> modify for CSW1703BA-1  begin -->
+    <string name="desktop_mode">double_classic_mode</string>
+    <!-- Chenyee <BLU_Req> <zhanglz> <20180316> modify for CSW1703BA-1  end -->
+
+    <!-- 下滑手势行为 可选值：
+            action_none:                    无
+            action_pull_down_status_bar:    下拉状态栏
+            action_enter_global_search:     进入全局搜索
+     -->
+    <string name="gesture_down_action">action_none</string>
+
+</setting-default>

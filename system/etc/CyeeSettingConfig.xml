@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cyeesetting version="1">
+<cyeesetting cyeename="force_touch_swich" cyeevalue="0"/>
+<cyeesetting cyeename="force_touch_screen_switch" cyeevalue="0"/>
+<cyeesetting cyeename="force_touch_open_app_switch" cyeevalue="0"/>
+<cyeesetting cyeename="force_touch_functionswitch" cyeevalue="0"/>
+<!-- Gionee qinkai 2016-6-27 added for CR01722399 start -->
+<cyeesetting cyeename="force_touch_app0" cyeevalue="com.android.camera/com.android.camera.CameraLauncher"/>
+<cyeesetting cyeename="force_touch_app1" cyeevalue="com.android.music/com.android.music.MusicScanResultActivity"/>
+<cyeesetting cyeename="force_touch_app2" cyeevalue="com.android.fmradio/com.android.fmradio.FmMainActivity"/>
+<cyeesetting cyeename="force_touch_app3" cyeevalue="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"/>
+<cyeesetting cyeename="force_touch_app4" cyeevalue="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"/>
+<cyeesetting cyeename="force_touch_app5" cyeevalue="com.gionee.flashlight/com.gionee.flashlight.FlashLightActivity"/>
+<!-- Gionee qinkai 2016-6-27 added for CR01722399 end -->
+<!--Chenyee  ningtao 20171012 modify for 233855 begin  -->
+<cyeesetting cyeename="black_gesture_s" cyeevalue="0:selfie"/>
+<cyeesetting cyeename="black_gesture_config_value" cyeevalue="775"/>
+<!--Chenyee ningtao  20171012 modify for 233855 end  -->
+<cyeesetting cyeename="is_new_black_gesture_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_psensor_browse_picture_dg" cyeevalue="1"/>
+<cyeesetting cyeename="is_psensor_ctrl_video_dg" cyeevalue="1"/>
+<cyeesetting cyeename="is_vibration_alert_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_sdg_light_screen_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_sdg_unlock_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_sdg_desktop_slide_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_fast_camera_on" cyeevalue="1"/>
+<cyeesetting cyeename="is_exist_private_space" cyeevalue="1"/>
+<cyeesetting cyeename="is_vibration_effect_on" cyeevalue="0"/>
+<cyeesetting cyeename="is_exist_home_key_settings" cyeevalue="1"/>
+<cyeesetting cyeename="black_gesture_u_right" cyeevalue="0:fastcamera"/>
+<cyeesetting cyeename="support_split_screen" cyeevalue="0"/>
+<cyeesetting cyeename="support_fast_charge" cyeevalue="0"/>
+<cyeesetting cyeename="fast_charge" cyeevalue="0"/>
+<!--Chenyee  lucy 20180717 modify for CSW1707BA-117  begin  -->
+<!--Chenyee  huanghaijian 20180917 modify for CSW1802BA-141  begin  -->
+<cyeesetting cyeename="smart_protect_eye_support" cyeevalue="1"/>
+<!--Chenyee  huanghaijian 20180917 modify for CSW1802BA-141  end  -->
+<!--Chenyee  lucy 20180717 modify for CSW1707BA-117  end  -->
+<cyeesetting cyeename="blackgesture_support_doublefinger" cyeevalue="0"/>
+<cyeesetting cyeename="is_exist_otg_reverse_charging" cyeevalue="1"/>
+<!--Chenyee  ningtao 20180621 modify for CSW1707A-1285  begin  -->
+<cyeesetting cyeename="respiration_lamp_notification_new" cyeevalue="0"/>
+<cyeesetting cyeename="respiration_lamp_call_new" cyeevalue="0"/>
+<!--Chenyee ningtao  20180621 modify for CSW1707A-1285  end  -->
+</cyeesetting>

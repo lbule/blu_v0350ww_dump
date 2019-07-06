@@ -1,0 +1,96 @@
+[
+    {
+        "package": "cy.camera.plugin.hdr", 
+        "order": "1"
+    }, 
+    {
+        "package": "cy.camera.plugin.singlehdr", 
+        "order": "2"
+    }, 
+    {
+        "package": "cy.camera.plugin.nightvideo", 
+        "order": "3"
+    },
+    {
+        "package": "cy.camera.plugin.panorama",
+        "order": "4"
+    }, 
+    {
+        "package": "cy.camera.plugin.prosetting",
+        "order": "5"
+    } ,
+    {
+        "package": "cy.camera.plugin.timelapse",
+        "order": "6"
+    },
+    {
+        "package": "cy.camera.plugin.slowmotion",
+        "order": "7"
+    },
+    {
+        "package": "cy.camera.plugin.autoscene",
+        "order": "8"
+    },
+    {
+        "package": "cy.camera.plugin.editor",
+        "order": "9"
+    },
+    {
+        "package": "cy.camera.plugin.microspu",
+        "order": "10"
+    },
+    {
+        "package": "cy.camera.plugin.gitshot",
+        "order": "11"
+    },
+    {
+        "package": "cy.camera.plugin.picnote",
+        "order": "12"
+    },
+    {
+        "package": "cy.camera.plugin.superphoto",
+        "order": "13"
+    },
+    {
+        "package": "cy.camera.plugin.scan",
+        "order": "14"
+    },
+    {
+        "package": "gn.camera.plugin.polaroid",
+        "order": "15"
+    },
+    {
+        "package": "cy.camera.plugin.card",
+        "order": "16"
+    },
+    {
+        "package": "cy.camera.plugin.translation",
+        "order": "17"
+    },
+    {
+        "package": "cy.camera.plugin.smartburst",
+        "order": "18"
+    },
+    {
+        "package": "cy.camera.plugin.bokeh",
+        "order": "19"
+    },
+    {
+        "package": "cy.camera.plugin.starphoto",
+        "order": "20"
+    },
+    {
+        "package": "cy.camera.plugin.selfiepanorama",
+        "order": "21"
+    },
+
+    {
+        "package": "cy.camera.plugin.animoji",
+        "order": "22"
+    },
+
+    {
+        "package": "cy.camera.plugin.livephoto",
+        "order": "23"
+    }
+]

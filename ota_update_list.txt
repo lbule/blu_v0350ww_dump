@@ -1,0 +1,8 @@
+sspm.img sspm_1 sspm_2
+tee.img tee1 tee2
+lk.img bootloader bootloader2
+scp.img scp1 scp2
+odmdtbo.img odmdtbo
+md1img.img md1img
+spmfw.img spmfw
+preloader.img preloader preloader2

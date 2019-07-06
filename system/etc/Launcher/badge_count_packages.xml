@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+    <!-- Gmail -->
+    <package>com.google.android.gm</package>
+    <!-- Play Store -->
+    <package>com.android.vending</package>
+    <!-- Messaging -->
+    <package>com.android.mms</package>
+    <!-- Phone -->
+    <package>com.android.contacts#com.android.contacts.activities.DialtactsActivity</package>
+    <!-- Email -->
+    <package>com.android.email</package>
+    <!-- Facebook Messager -->
+    <package>com.facebook.orca</package>
+    <!-- WhatsApp -->
+    <package>com.whatsapp</package>
+    <!-- WeChat -->
+    <package>com.tencent.mm</package>
+    <!-- imo -->
+    <package>com.imo.android.imoim</package>
+    <!-- Facebook -->
+    <package>com.facebook.katana</package>
+    <!-- Goolge Phone -->
+    <package>com.google.android.dialer</package>
+    <!-- Goolge MMS -->
+    <package>com.google.android.apps.messaging</package>
+</packages>

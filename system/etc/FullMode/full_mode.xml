@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packagenames>
+ <packagename id="1">  
+     <name>com.facebook.katana</name>  
+ </packagename> 
+ <packagename id="2">  
+     <name>com.instagram.android</name>  
+ </packagename> 
+ <packagename id="3">  
+     <name>com.linkedin.android</name>  
+ </packagename> 
+ <packagename id="4">  
+     <name>com.snapchat.android</name>  
+ </packagename> 
+ <packagename id="5">  
+     <name>com.sgiggle.production</name>  
+ </packagename> 
+ <packagename id="6">  
+     <name>com.twitter.android</name>  
+ </packagename> 
+ <packagename id="7">  
+     <name>com.whatsapp</name>  
+ </packagename> 
+ <packagename id="8">  
+     <name>com.imo.android.imoim</name>  
+ </packagename>
+ <packagename id="9">  
+     <name>com.facebook.orca</name>  
+ </packagename>
+ <packagename id="10">  
+     <name>com.viber.voip</name>  
+ </packagename>
+</packagenames>

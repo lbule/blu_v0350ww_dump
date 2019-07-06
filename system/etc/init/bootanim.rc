@@ -1,0 +1,25 @@
+service bootanim /system/bin/bootanimation
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    writepid /dev/stune/top-app/tasks
+
+# Chenyee <CY_BootAudio_Opt> <futao> <20180523> modify for CSW1707A-1141 begin
+service banim_shutmp3 /system/bin/bootanimation shut mp3
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    writepid /dev/stune/top-app/tasks
+
+service banim_shutnomp3 /system/bin/bootanimation shut nomp3
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    writepid /dev/stune/top-app/tasks
+#Chenyee <CY_BootAudio_Opt> <futao> <20180523> modify for CSW1707A-1141 end

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<profiles xmlns:launcher="http://schemas.android.com/apk/res-auto/com.cydroid.launcher3" >
+    <!-- Chenyee <BLU_Req> <huanghaijian> <20180906> modify for CSW1802BA-127  begin -->
+   <profile
+        launcher:name="1802"
+        launcher:minWidthDps="329"
+        launcher:minHeightDps="671"
+        launcher:numRows="5"
+        launcher:numColumns="4"
+        launcher:numFolderRows="4"
+        launcher:numFolderColumns="4"
+        launcher:numAllAppsRows="5"
+        launcher:numAllAppsColumns="5"
+        launcher:iconSize="60"
+        launcher:iconTextSize="12.0"
+        launcher:numHotseatIcons="4"
+        launcher:hotseatIconSize="60"
+        launcher:defaultLayoutId="@xml/default_workspace_5x4"
+        />
+    <!-- Chenyee <BLU_Req> <huanghaijian> <20180906> modify for CSW1802BA-127  end -->
+    <profile
+        launcher:name="1802"
+        launcher:minWidthDps="329"
+        launcher:minHeightDps="671"
+        launcher:numRows="6"
+        launcher:numColumns="4"
+        launcher:numFolderRows="4"
+        launcher:numFolderColumns="4"
+        launcher:numAllAppsRows="6"
+        launcher:numAllAppsColumns="4"
+        launcher:iconSize="57"
+        launcher:iconTextSize="11.2"
+        launcher:numHotseatIcons="4"
+        launcher:hotseatIconSize="57"
+        launcher:defaultLayoutId="@xml/default_workspace_6x4"
+        />
+   <profile
+        launcher:name="1802"
+        launcher:minWidthDps="329"
+        launcher:minHeightDps="671"
+        launcher:numRows="6"
+        launcher:numColumns="5"
+        launcher:numFolderRows="4"
+        launcher:numFolderColumns="4"
+        launcher:numAllAppsRows="6"
+        launcher:numAllAppsColumns="4"
+        launcher:iconSize="57"
+        launcher:iconTextSize="11.2"
+        launcher:numHotseatIcons="5"
+        launcher:hotseatIconSize="57"
+        launcher:defaultLayoutId="@xml/default_workspace_6x5"
+        />
+</profiles>
